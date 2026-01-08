@@ -6,6 +6,10 @@
 cd C:\Users\ruste\OneDrive\Рабочий стол\наука\graphs\dpo_charts
 .\venv\Scripts\Activate.ps1
 py -m notebook
+
+# Мой макбук 
+source ./venv/bin/activate
+python3 -m notebook 
 ```
 
 Все тырил оттуда:
